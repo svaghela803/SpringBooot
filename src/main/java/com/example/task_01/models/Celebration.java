@@ -17,6 +17,6 @@ public class Celebration {
     }
 
     public Celebration(){
-        
+
     }
 }
