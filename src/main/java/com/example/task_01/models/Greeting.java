@@ -25,4 +25,8 @@ public class Greeting {
     public void setTimeOfDay(String timeOfDay) {
         this.timeOfDay = timeOfDay;
     }
+
+    public Greeting() {
+        
+    }
 }
