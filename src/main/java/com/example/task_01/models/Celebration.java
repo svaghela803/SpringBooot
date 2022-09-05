@@ -15,4 +15,8 @@ public class Celebration {
     public void setMessage(String message) {
         this.message = message;
     }
+
+    public Celebration(){
+        
+    }
 }
